@@ -16,3 +16,9 @@
 // Props : - Digunakan untuk transfer data antar komponen
 
 // Conditional Rendering : Nge-Render Component Dengan Kondisi Tertentu
+
+// Routing Di ReactJS :
+//      - https://reactrouter.com/
+//      - Install : npm install react-router-dom
+// Step :
+//          1. import { BrowseRouter, Switch, Route } from 'react-router-dom' di dalam App.js

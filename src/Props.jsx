@@ -9,7 +9,7 @@ export default class Props extends React.Component{
                     Props
                 </h1>
                 <h2>
-                    Pages Ini (Parentnya) > Component Button (Childnya)
+                    Pages Ini (Parentnya), Component Button (Childnya)
                 </h2>
 
                 <h1>

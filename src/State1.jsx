@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 let namaStudent = 'Tommy'
 
@@ -34,6 +35,14 @@ class State1 extends React.Component{
                     {namaStudent}
                 </h1>
                 <input type="button" value="Ubah Nama Variable" onClick={this.ubahNamaVar} />
+
+                <br />
+                <hr />
+                <br />
+
+                <h1>
+                    <Link to='/state-3'>Menuju State 3</Link>
+                </h1>
             </div>
         )
     }
