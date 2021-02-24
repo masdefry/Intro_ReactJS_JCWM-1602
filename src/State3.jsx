@@ -4,7 +4,8 @@ class State3 extends React.Component{
 
     state = {
         nama: '',
-        text: ''
+        text: '',
+        data: 'Defryan'
     }
 
     sapa = () => {

@@ -13,4 +13,6 @@
 // State : - Digunakan untuk menyimpan data didalam komponen
 //         - Setiap kali ada perubahan -> selalu re-render
 
+// Props : - Digunakan untuk transfer data antar komponen
+
 // Conditional Rendering : Nge-Render Component Dengan Kondisi Tertentu
